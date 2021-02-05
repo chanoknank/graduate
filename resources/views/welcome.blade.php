@@ -42,7 +42,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #f0f0f0;
+                background-color: #ffffff;
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
@@ -65,7 +65,7 @@
     letter-spacing: 1px;
     line-height: 0;
     margin-bottom: 0;
-    padding: 27px 44px;
+    padding: 44px 44px;
     border-radius: 0px;
     margin: 10px;
     cursor: pointer;
@@ -174,18 +174,26 @@
                      </div>
                      <div class="col-lg-9 col-md-9">
                          <div class="menu-wrapper">
-                             <!-- Main-menu -->
-                             <div class="main-menu">
-                                 <nav class="d-none d-lg-block">
+                     <!-- Main-menu -->
 
-                                    <a href="#" class="btn head-btn1">หลักสูตร</a>
-                                    <a href="#" class="btn head-btn1">ภาควิชา</a>
-                                    <a href="#" class="btn head-btn1">บัณฑิตวิทยลัย มมส.</a>
-                                    <a href="#" class="btn head-btn1">ithesis</a>
-                                    <a href="#" class="btn head-btn1">ตรวจสอบรูปเล่ม</a>
-                                 </nav>
-                             </div>
-                             <!-- Header-btn -->
+                     <div class="job-items">
+                        <div class="company-img">
+                            <a href="#"><img src="assets/img/icon/ภาควิชา.png" alt=""></a>
+                        </div>
+                        <div class="job-tittle job-tittle2">
+
+
+                        </div>
+                    </div>
+                    <a href="#"><img src="assets/img/icon/1.png" alt=""></a>&nbsp;
+                    <a href="#"><img src="assets/img/icon/2.png" alt=""></a>&nbsp;
+                    <a href="#"><img src="assets/img/icon/3.png" alt=""></a>&nbsp;
+                    <a href="#"><img src="assets/img/icon/4.png" alt=""></a>&nbsp;
+                    <a href="#"><img src="assets/img/icon/5.png" alt=""></a>&nbsp;
+
+             </nav>
+         </div>
+         <!-- Header-btn -->
 
                          </div>
                      </div>
@@ -386,3 +394,4 @@
 
     </body>
 </html>
+
