@@ -169,7 +169,7 @@
                      <div class="col-lg-3 col-md-2">
                          <!-- Logo -->
                          <div class="logo">
-                             <a href="index.html"><img src="assets/img/logo/It_MSU.png" alt=""></a>
+                             <a href="index.html"><img src="assets/img/logo/It_MSU3.png" alt=""></a>
                          </div>
                      </div>
                      <div class="col-lg-9 col-md-9">
@@ -178,18 +178,18 @@
 
                      <div class="job-items">
                         <div class="company-img">
-                            <a href="#"><img src="assets/img/icon/ภาควิชา.png" alt=""></a>
+
                         </div>
                         <div class="job-tittle job-tittle2">
 
 
                         </div>
                     </div>
-                    <a href="#"><img src="assets/img/icon/1.png" alt=""></a>&nbsp;
-                    <a href="#"><img src="assets/img/icon/2.png" alt=""></a>&nbsp;
-                    <a href="#"><img src="assets/img/icon/3.png" alt=""></a>&nbsp;
-                    <a href="#"><img src="assets/img/icon/4.png" alt=""></a>&nbsp;
-                    <a href="#"><img src="assets/img/icon/5.png" alt=""></a>&nbsp;
+                    <a href="#"><img src="assets/img/icon/1.png" alt=""></a>
+                    <a href="#"><img src="assets/img/icon/2.png" alt=""></a>
+                    <a href="#"><img src="assets/img/icon/3.png" alt=""></a>
+                    <a href="#"><img src="assets/img/icon/4.png" alt=""></a>
+                    <a href="#"><img src="assets/img/icon/5.png" alt=""></a>
 
              </nav>
          </div>
@@ -217,7 +217,7 @@
                 <div class="blog_left_sidebar">
                     <article class="blog_item">
                         <div class="blog_item_img">
-                            <img class="card-img rounded-0" src="assets/img/blog/single_blog_1.png" alt="">
+                            <img class="card-img rounded-0" src="assets/img/blog/single_blog_4.png" alt="">
                             <a href="#" class="blog_item_date">
                                 <h3>15</h3>
                                 <p>Jan</p>
