@@ -159,8 +159,8 @@
         </style>
     </head>
     <body>
-
-        <div class="section-top-border">
+    <!-- Preloader Start -->
+    <header>
               <!-- Header Start -->
        <div class="header-area header-transparrent">
         <div class="headder-top header-sticky">
@@ -175,6 +175,22 @@
                      <div class="col-lg-9 col-md-9">
                          <div class="menu-wrapper">
                      <!-- Main-menu -->
+                     <div class="main-menu">
+                                    <nav class="d-none d-lg-block">
+                                        <ul id="navigation">
+
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            <li><a href="index.html">หลักสูตร</a></li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            <li><a href="job_listing.html">ภาควิชา </a></li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            <li><a href="about.html">บัณฑิตวิทยลัย MSU</a></li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            <li><a href="#">ITHESIS</a></li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            <li><a href="contact.html">ตรวจสอบรูปเล่ม MSU</a></li>
+                                        </ul>
+                                    </nav>
+                                </div>
+
+
+
 
                      <div class="job-items">
                         <div class="company-img">
@@ -185,12 +201,6 @@
 
                         </div>
                     </div>
-                    <a href="#"><img src="assets/img/icon/1.png" alt=""></a>
-                    <a href="#"><img src="assets/img/icon/2.png" alt=""></a>
-                    <a href="#"><img src="assets/img/icon/3.png" alt=""></a>
-                    <a href="#"><img src="assets/img/icon/4.png" alt=""></a>
-                    <a href="#"><img src="assets/img/icon/5.png" alt=""></a>
-
              </nav>
          </div>
          <!-- Header-btn -->
@@ -206,7 +216,29 @@
         </div>
     </div>
      <!-- Header End -->
+   <!-- slider Area Start-->
+   <div class="slider-area ">
+            <!-- Mobile Menu -->
+            <div class="slider-active">
+                <div class="single-slider slider-height d-flex align-items-center" data-background="assets/img/hero/h1_hero.jpg">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xl-6 col-lg-9 col-md-10">
+                                <div class="hero__caption">
+                                    <h1>Information Technogy</h1>
+                                </div>
+                            </div>
+                        </div>
 
+                                <!-- form -->
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- slider Area End-->
 
 
   <!--================Blog Area =================-->
@@ -217,7 +249,7 @@
                 <div class="blog_left_sidebar">
                     <article class="blog_item">
                         <div class="blog_item_img">
-                            <img class="card-img rounded-0" src="assets/img/blog/single_blog_4.png" alt="">
+                            <img class="card-img rounded-0" src="assets/img/blog/single_blog_2.png" alt="">
                             <a href="#" class="blog_item_date">
                                 <h3>15</h3>
                                 <p>Jan</p>
@@ -270,33 +302,33 @@
                         <ul class="list cat-list">
                             <li>
 
-                                    <center><a href="#"><img src="assets/img/logo/1.png" alt=""> </center>
+                                    <center><a href="#"><img src="assets/img/logo/25.png" alt=""> </center>
 
                                 </a>
                             </li>
                             <li>
                                 <a href="#" class="d-flex">
-                                    <center><a href="#"><img src="assets/img/logo/2.png" alt=""> </center>
+                                    <center><a href="#"><img src="assets/img/logo/20.png" alt=""> </center>
                                 </a>
                             </li>
                             <li>
                                 <a href="#" class="d-flex">
-                                    <center><a href="#"><img src="assets/img/logo/3.png" alt=""> </center>
+                                    <center><a href="#"><img src="assets/img/logo/21.png" alt=""> </center>
                                 </a>
                             </li>
                             <li>
                                 <a href="#" class="d-flex">
-                                    <center><a href="#"><img src="assets/img/logo/4.png" alt=""> </center>
+                                    <center><a href="#"><img src="assets/img/logo/22.png" alt=""> </center>
                                 </a>
                             </li>
                             <li>
                                 <a href="#" class="d-flex">
-                                    <center><a href="#"><img src="assets/img/logo/5.png" alt=""> </center>
+                                    <center><a href="#"><img src="assets/img/logo/23.png" alt=""> </center>
                                 </a>
                             </li>
                             <li>
                                 <a href="#" class="d-flex">
-                                    <center><a href="#"><img src="assets/img/logo/6.png" alt=""> </center>
+                                    <center><a href="#"><img src="assets/img/logo/24.png" alt=""> </center>
                                 </a>
                             </li>
                         </ul>
